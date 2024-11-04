@@ -1,12 +1,12 @@
 import java.time.LocalDate;
 
 public class Treatment {
-    int treatmentID;
-    Patient patient;       // Link to the patient receiving the treatment
-    Doctor doctor;         // Doctor administering or overseeing the treatment
-    String treatmentType;  // Description or type of treatment (e.g., "Chemotherapy")
-    LocalDate treatmentDate; // Date of the treatment
-    String treatmentNotes; // Any additional notes about the treatment
+    private int treatmentID;
+    private Patient patient;       // Link to the patient receiving the treatment
+    private Doctor doctor;         // Doctor administering or overseeing the treatment
+    private String treatmentType;  // Description or type of treatment (e.g., "Chemotherapy")
+    private LocalDate treatmentDate; // Date of the treatment
+    private String treatmentNotes; // Any additional notes about the treatment
     
     // Constructor
     public Treatment(int treatmentID, Patient patient, Doctor doctor, String treatmentType, LocalDate treatmentDate, String treatmentNotes) {
