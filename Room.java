@@ -1,10 +1,10 @@
 public class Room {
-    String roomNumber; // Unique identifier for the room
-    String roomType; // Type of room (e.g., , shared, ICU)
-    boolean isOccupied; // Status indicating if the room is currently occupied
-    double dailyRate; // Cost of the room per day
-    Patient currentPatient;
-    HospitalStaff nurse; // Patient currently occupying the room 
+   private String roomNumber; // Unique identifier for the room
+    private String roomType; // Type of room (e.g., , shared, ICU)
+    private boolean isOccupied; // Status indicating if the room is currently occupied
+   private  double dailyRate; // Cost of the room per day
+   private Patient currentPatient;
+    private HospitalStaff nurse; // Patient currently occupying the room 
     // Constructor
     public Room(String roomNumber, String roomType, double dailyRate) {
         this.roomNumber = roomNumber;
