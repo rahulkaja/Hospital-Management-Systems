@@ -22,8 +22,8 @@ public class Treatment {
     public void displayTreatmentDetails() {
         System.out.println("\nTreatment Details:");
         System.out.println("Treatment ID: " + treatmentID);
-        System.out.println("Patient Name: " + patient.name); // Access patient's name
-        System.out.println("Doctor: " + doctor.name);        // Access doctor's name
+        System.out.println("Patient Name: " + patient.getName()); // Access patient's name
+        System.out.println("Doctor: " + doctor.getName());        // Access doctor's name
         System.out.println("Treatment Type: " + treatmentType);
         System.out.println("Treatment Date: " + treatmentDate);
         System.out.println("Notes: " + treatmentNotes);
