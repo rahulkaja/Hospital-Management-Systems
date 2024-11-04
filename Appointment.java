@@ -32,8 +32,8 @@ public class Appointment {
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm");
         System.out.println("\nAppointment Details:");
         System.out.println("Appointment ID: " + appointmentID);
-        System.out.println("Patient: " + (patient != null ? patient.name : "No Patient Assigned"));
-        System.out.println("Doctor: " + (doctor != null ? doctor.name : "No Doctor Assigned"));
+        System.out.println("Patient: " + (patient != null ? patient.getName() : "No Patient Assigned"));
+        System.out.println("Doctor: " + (doctor != null ? doctor.getName() : "No Doctor Assigned"));
         System.out.println("Appointment Date: " + appointmentDate.format(formatter));
         System.out.println("Status: " + status);
         if (!notes.isEmpty()) {
