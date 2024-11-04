@@ -2,21 +2,21 @@ import java.time.LocalDateTime;
 import java.time.Duration;
 
 public class Labs {
-    Patient patient;
-    Doctor doctor;
-    HospitalStaff hospitalStaff;
-    Equipment equipment;
-    Tests test;
-    Appointment appointment;
-    Room room;
+    private Patient patient;
+    private Doctor doctor;
+    private HospitalStaff hospitalStaff;
+   private  Equipment equipment;
+    private Tests test;
+   private  Appointment appointment;
+    private Room room;
 
     // Additional attributes
-    HospitalStaff labTechnician;
-    LocalDateTime testDateTime;
-    LocalDateTime testCompletionTime;
-    String testResults;
-    String status; 
-    double cost;
+    private HospitalStaff labTechnician;
+    private LocalDateTime testDateTime;
+    private LocalDateTime testCompletionTime;
+    private String testResults;
+   private String status; 
+    private double cost;
     String labType;
     Duration testDuration;
     String notes;
