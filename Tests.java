@@ -28,7 +28,7 @@ public class Tests extends Labs {
     public void displayTestDetails() {
         System.out.println("\nTest Details:");
         System.out.println("Test ID: " + testID);
-        System.out.println("Patient: " + (patient != null ? patient.name : "No Patient Assigned"));
+        System.out.println("Patient: " + (patient != null ? patient.getName() : "No Patient Assigned"));
         System.out.println("Test Name: " + testName);
         System.out.println("Test Date: " + testDate);
         System.out.println("Test Result: " + testResult);
