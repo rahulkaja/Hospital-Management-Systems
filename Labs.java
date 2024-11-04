@@ -1,8 +1,8 @@
-import java.time.LocalDateTime;
 import java.time.Duration;
+import java.time.LocalDateTime;
 
 public class Labs {
-    private Patient patient;
+    protected Patient patient;
     private Doctor doctor;
     private HospitalStaff hospitalStaff;
    private  Equipment equipment;
