@@ -1,4 +1,12 @@
-Healthcare System Project 
+## Contributors and Owners
+
+- [P.Chetan Naidu](https://github.com/chetannaidu2005) 
+- [Rahul Kaja](https://github.com/rahulkaja) 
+
+We collaboratively designed and developed a Java-based healthcare management system integrating both command-line and Swing-based GUI modules for end-to-end hospital operations.  
+The system aims to simplify hospital workflows by enabling efficient patient tracking, appointment scheduling, and billing management.
+
+## Healthcare System Project 
 Project Overview-
 The Healthcare System project provides a digital solution for managing healthcare operations, integrating features like patient records, appointment scheduling, billing, and more.
 
