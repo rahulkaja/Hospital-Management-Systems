@@ -1,10 +1,15 @@
 ## Contributors and Owners
 
-- [P.Chetan Naidu](https://github.com/chetannaidu2005) 
-- [Rahul Kaja](https://github.com/rahulkaja) 
+The Hospital Management System project was developed as a collaborative effort by students as part of the Object-Oriented Programming (OOP) course. The main contributors are:
 
-We collaboratively designed and developed a Java-based healthcare management system integrating both command-line and Swing-based GUI modules for end-to-end hospital operations.  
-The system aims to simplify hospital workflows by enabling efficient patient tracking, appointment scheduling, and billing management.
+**P. Chetan Naidu**  
+GitHub: [https://github.com/chetannaidu2005](https://github.com/chetannaidu2005)
+
+**Dipali**  
+GitHub: [https://github.com/dipali-hub](https://github.com/dipali-hub)
+
+These contributors played a key role in building a Java-based healthcare platform designed to streamline hospital operations. The system integrates both command-line and GUI interfaces to support tasks such as managing patients, scheduling appointments, and handling billing efficiently.
+
 
 ## Healthcare System Project 
 Project Overview-
