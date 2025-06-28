@@ -5,8 +5,8 @@ The Hospital Management System project was developed as a collaborative effort b
 **P. Chetan Naidu**  
 GitHub: [https://github.com/chetannaidu2005](https://github.com/chetannaidu2005)
 
-**Dipali**  
-GitHub: [https://github.com/dipali-hub](https://github.com/dipali-hub)
+**Rahul Kaja**  
+GitHub: [https://github.com/dipali-hub](https://github.com/rahulkaja)
 
 These contributors played a key role in building a Java-based healthcare platform designed to streamline hospital operations. The system integrates both command-line and GUI interfaces to support tasks such as managing patients, scheduling appointments, and handling billing efficiently.
 
